@@ -1,8 +1,8 @@
 @P1
 Feature: Invite new employee and offer
-    "As a Manager "
-    "I want to be able to invite new employees with an offer letter "
-    "So that they can be onboarded"
+    "**As** a Manager "
+    "**I want** to be able to invite new employees with an offer letter "
+    "**So that** they can be onboarded"
 
   Scenario: Invite a new employee - Filling out the required fields only
     Given I logged in as a manager
