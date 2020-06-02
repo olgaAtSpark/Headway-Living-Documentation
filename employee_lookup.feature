@@ -1,8 +1,8 @@
 @P1
 Feature: Employee lookup
-    "**In order to** look up employees before extending an offer or taking any further actions"
-    "**As** a Manager"
-    "**I want to** be able to look up employees in the system"
+    "In order to look up employees before extending an offer or taking any further actions"
+    "As a Manager"
+    "I want to be able to look up employees in the system"
 
   Scenario Outline: Lookup an existing employee by any of the fields
     As a manager
