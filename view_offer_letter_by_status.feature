@@ -1,5 +1,5 @@
 @P2
-Feature: View Offer Letter by status
+Feature: View Offer Letter by status - Manager
     As a Manager
     I want to be able to quickly browse through letters by status
     So that I can make decisions quickly
